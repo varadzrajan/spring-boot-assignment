@@ -1,0 +1,40 @@
+2020-07-26 18:34:25,457 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-26 18:41:04,675 [Worker-13: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-26 18:41:26,105 [Worker-13: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.library:Library:0.0.1-SNAPSHOT @ C:\Users\Dell\Downloads\LibrarySystemRepository-master\LibrarySystemRepository-master\LibrarySystem\pom.xml.
+2020-07-26 18:42:53,954 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 18:42:53,996 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-26 18:42:54,173 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 18:42:54,179 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 18:42:54,180 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\Downloads\LibrarySystemRepository-master\LibrarySystemRepository-master\LibrarySystem\src\test\resources
+2020-07-26 18:43:15,830 [Worker-13: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LibrarySystem/src/main/java
+2020-07-26 18:43:15,834 [Worker-13: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LibrarySystem/src/main/resources
+2020-07-26 18:43:15,933 [Worker-13: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LibrarySystem/src/main/resources
+2020-07-26 18:43:16,017 [Worker-13: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LibrarySystem/src/test/java
+2020-07-26 18:43:37,791 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 18:43:37,949 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-26 18:43:38,050 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 18:43:38,059 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 18:43:38,059 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\Downloads\LibrarySystemRepository-master\LibrarySystemRepository-master\LibrarySystem\src\test\resources
+2020-07-26 18:43:45,528 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 18:43:45,529 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 18:43:45,530 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 18:43:45,534 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 18:43:45,535 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\Downloads\LibrarySystemRepository-master\LibrarySystemRepository-master\LibrarySystem\src\test\resources
+2020-07-26 18:43:46,735 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 18:43:46,736 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 18:43:46,736 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-26 18:43:46,745 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 18:43:46,745 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\Downloads\LibrarySystemRepository-master\LibrarySystemRepository-master\LibrarySystem\src\test\resources
+2020-07-26 18:43:47,262 [Worker-13: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 162 sec
+2020-07-26 23:40:15,542 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @18590882ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-07-26 23:40:25,559 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.29.v20200521; built: 2020-05-27T11:26:53.365Z; git: 77c232aed8a45c818fd27232278d9f95a021095e; jvm 11.0.2+9-LTS
+2020-07-26 23:40:26,554 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-07-26 23:40:26,555 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-07-26 23:40:26,559 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2020-07-26 23:40:28,325 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@44483b55{/help,null,AVAILABLE}
+2020-07-26 23:40:29,337 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@699248cf{HTTP/1.1, (http/1.1)}{127.0.0.1:65166}
+2020-07-26 23:40:29,337 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @18604715ms
+2020-07-26 23:40:29,338 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2020-07-27 09:24:31,814 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@699248cf{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2020-07-27 09:24:32,317 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2020-07-27 09:24:33,957 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@44483b55{/help,null,UNAVAILABLE}
